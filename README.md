@@ -1,8 +1,4 @@
-Awesome — here's a **clean, professional `README.md` draft** tailored for TinyVerse that will look amazing on your GitHub and impress recruiters:
 
----
-
-```markdown
 # 🌌 TinyVerse
 
 **TinyVerse** is a real-time, collaborative, tile-based digital world where multiple users can join, build, and create interactive spaces — like digital Lego for fun, creativity, and remote teamwork.
